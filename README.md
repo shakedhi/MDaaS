@@ -24,5 +24,5 @@ Note that the `-e` flag means that we can edit the files in our installed librar
 
 ## Usage
 
-We provided an example file (`example.py`), which demonstrates the usage in our environment.
+We provided an example file (`example.py`), which demonstrates the usage in our environment.  
 Our dataset is provided in the data directory.
